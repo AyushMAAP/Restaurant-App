@@ -1,4 +1,4 @@
-# 🍽️ Restaurant - Restaurant App by Ayush Kumar Swain 🍽️
+# 🍽️ Restaurant App by Ayush Kumar Swain 🍽️
 
 ## Project Overview
 
